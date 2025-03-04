@@ -15,5 +15,5 @@ spec:
         app: worker
     spec:
       containers:
-      - image: spencerxxxwb/worker:latest
+      - image: spencerxxxwb/worker
         name: worker
