@@ -1,3 +1,0 @@
-+ git config user.email office@spencer.com
-+ git config user.name JohnSpencer
-+ git add -A
