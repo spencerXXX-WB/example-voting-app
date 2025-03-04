@@ -15,7 +15,7 @@ spec:
         app: result
     spec:
       containers:
-      - image: spencerxxxwb/result:latest
+      - image: spencerxxxwb/result:v1
         name: result
         ports:
         - containerPort: 80
